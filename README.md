@@ -1,4 +1,4 @@
---
+
 ```                  
 
    ______                                     
@@ -14,7 +14,8 @@
                                               
                  
 ```
---
+
+
 Hello, I'm Yusuf — though in most corners of the internet, you'll likely recognize me as cyze.
 
 Today, I’d like to do something different. Instead of leading you through a conventional GitHub profile filled with repositories, contributions, and commit graphs, I want to share something a bit more personal — a reflection on my journey, my philosophy, and what I believe cybersecurity truly represents in this complex digital era.
